@@ -1,0 +1,9 @@
+body, html{
+    background: #40c4a1
+}
+img {
+border: none;
+}
+.izquierda {
+float: left;
+}
